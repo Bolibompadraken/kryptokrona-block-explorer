@@ -10,7 +10,7 @@ let pools = [ // Name, Site URL, API URL
   ["Norpool", "https://norpool.org", "https://norpool.org/api/stats"],
   ["Privacymine", "https://privacymine.net", "https://privacymine.net:8117/stats"],
   ["Semipool", "https://webxkr.semipool.com", "https://webxkr.semipool.com/api/stats"]
-
+  ["Drrakpool", "https://drakpool.com", "https://drakpool.com/api/stats"]
 
   
   //Removed some pools that were causing perfomance issues by not responding..
